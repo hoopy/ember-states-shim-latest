@@ -1,0 +1,11 @@
+{
+  "name": "ember-states-shim-latest",
+  "version": "0.0.0",
+  "authors": [
+    "Thorbjørn Hermansen <thhermansen@gmail.com>"
+  ],
+  "description": "Ember states",
+  "main": "ember-states.js",
+  "license": "MIT",
+  "private": true
+}
